@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\bin\Debug\proekt22.exe.config
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\bin\Debug\proekt22.exe
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\bin\Debug\proekt22.pdb
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.exe
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.pdb
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.Form1.resources
+C:\Users\STUDENTS-STEM-14\source\repos\proekt22\obj\Debug\proekt22.Migrations.CourierContext.resources
